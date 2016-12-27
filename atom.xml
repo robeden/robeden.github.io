@@ -1,0 +1,26 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Rob Eden</title>
+ <link href="http://robeden.com/atom.xml" rel="self"/>
+ <link href="http://robeden.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://robeden.com/</id>
+ <author>
+   <name>Rob Eden</name>
+   <email>robeden1@gmail.com</email>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://robeden.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://robeden.com{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
