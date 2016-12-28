@@ -5,7 +5,11 @@ into a static site whenever I push this repository to GitHub.
 
 ## Credit
 
-I have liberally copied (with permission) configuration files from 
+The [jekyll-simple](http://jekyllthemes.org/themes/jekyll-simple/) theme (MIT license)
+is used throughout and my thanks go out to David Lin for the theme and wisdom I
+gleaned from his demo site.
+
+I have also liberally copied (with permission) configuration files from 
 [Tom Preston-Warner's personal blog](https://github.com/mojombo/mojombo.github.io).
 His permission and guidance is greatly appreciated.
 

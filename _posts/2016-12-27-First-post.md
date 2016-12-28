@@ -1,3 +1,7 @@
+---
+excerpt_separator: <!--more-->
+categories: random
+---
 This is a first post. I should say something profound here, but since this is just for
 test purposes I will instead leave you with a quotation from C. S. Lewis:
 

@@ -1,4 +1,25 @@
-theme: jekyll-theme-minimal
-title: Rob's Hub
-layout: post
-timezone: America/Chicago
+title: Rob Eden
+email: robeden1@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Rob Eden's own little slice of the web.
+  Rob is a twiddler of bits, pixels and sawdust.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://robeden.com
+twitter_username: robeden
+github_username:  robeden
+
+# Build settings
+markdown: kramdown
+theme: jekyll-simple-theme
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
+  
+google_analytics: UA-89544639-1
+disqus_shortname: robeden
+
+# used this for post_excerpt at index_page
+excerpt_separator: <!--description-->
