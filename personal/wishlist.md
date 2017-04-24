@@ -19,6 +19,7 @@
 
 **Tinkering**
 
+- \[MED] [Weller WES51 Analog Soldering Station](http://a.co/acyAMEz) - $100
 - \[LOW] [Illuminated Magnifier Table Lamp](https://www.ifixit.com/Store/Tools/Illuminated-Magnifier-Table-Lamp/IF145-038) - $30
 
 **Photography**
