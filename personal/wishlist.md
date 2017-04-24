@@ -23,10 +23,10 @@
 
 **Photography**
 
-- Lenses
-    - \[MED] [Macro Lens (Canon EF 100mm f/2.8 Macro USM)](http://www.bhphotovideo.com/c/product/194451-USA/Canon_4657A006_100mm_f_2_8_USM_Macro.html) - $570
 - Memory Card
     - \[HIGH] [Transcend 400x 32GB](http://a.co/0sfrOh7) - $25
+- Lenses
+    - \[MED] [Macro Lens (Canon EF 100mm f/2.8 Macro USM)](http://www.bhphotovideo.com/c/product/194451-USA/Canon_4657A006_100mm_f_2_8_USM_Macro.html) - $570
 - \[MED] [Storm & Sky Tutorial](https://stormandsky.com/photography-tutorial.html) - $50
 
 
