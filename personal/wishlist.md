@@ -1,16 +1,18 @@
 ---
 ---
 
+**General**
+
 - \[HIGH] Porch swing
 - \[HIGH] Tennis shoes
-- \[HIGH] Basketball hoop
+- \[HIGH] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
 
 **Workshop**
 
 - \[MED] Belt/Disc Sander - $150? (CU Woodshop)
 - \[MED] [T-Bevel](https://www.lowes.com/pd/IRWIN-Hardwood-T-Bevel/50420100) - $20
-- \[MED] Fractional Calipers - $60? (CU Woodshop)
 - \[MED] [Woodsmith Magazine back issues](http://www.woodsmith.com/back-issue-library.php) - $100
+- \[LOW] Fractional Calipers - $60? (CU Woodshop)
 - \[LOW] [IR Thermometer](https://www.ifixit.com/Store/Tools/IR-Thermometer/IF145-249-1) - $25
 - \[LOW] [Wire Gauge](https://www.ifixit.com/Store/Tools/Wire-Gauge/IF145-250-1) - $7
 - \[LOW] [Thread Checker](https://www.ifixit.com/Store/Tools/Thread-Checker/IF145-285-1) - $35
