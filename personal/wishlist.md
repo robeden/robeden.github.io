@@ -5,6 +5,7 @@
 
 - \[HIGH] [Standing desk](https://smile.amazon.com/dp/B012BMMK0C/ref=cm_sw_r_cp_awdb_qltbAbM2XYRNS)
 - \[HIGH] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
+- [Tetris Stackable LED Desk Lamp](http://www.thinkgeek.com/product/f034/) - $19
 
 **Workshop**
 
