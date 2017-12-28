@@ -4,7 +4,8 @@
 **General**
 
 - \[HIGH] [Standing desk](https://smile.amazon.com/dp/B012BMMK0C/ref=cm_sw_r_cp_awdb_qltbAbM2XYRNS)
-- \[HIGH] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
+- \[MED] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
+- \[MED] [Executive Knight Pen Holder](http://www.thinkgeek.com/product/1543/) - $30
 
 **Workshop**
 
