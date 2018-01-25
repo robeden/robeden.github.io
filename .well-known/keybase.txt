@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/robeden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://robeden.com
+  * I am robeden (https://keybase.io/robeden) on keybase.
+  * I have a public key with fingerprint 2C08 8B3A 4BF3 A62D 43CB  7C55 3BE8 A6CA 491A B9D3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015a6310f463214cb74a36f7ebd9b1ecc480ba7d16f7376859b2ad02374ef71b660a",
+      "fingerprint": "2c088b3a4bf3a62d43cb7c553be8a6ca491ab9d3",
+      "host": "keybase.io",
+      "key_id": "3be8a6ca491ab9d3",
+      "kid": "01015a6310f463214cb74a36f7ebd9b1ecc480ba7d16f7376859b2ad02374ef71b660a",
+      "uid": "66f1510686775882ff69e25098397000",
+      "username": "robeden"
+    },
+    "service": {
+      "hostname": "robeden.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1511816795,
+  "expire_in": 157680000,
+  "prev": "bf7345b1633b6c7d04b7e18be49f867a2de2cf13655d84063c5a86e1e6024905",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMM6AnicrZJtUFRVHMZ3NZ3EqagZBkkR5orDq3TP3vcNXyhfAisVaCxgWu/LuXhh
+ubvs3kUWWAZKBdxMtHFCEIo0FFOQnByIHRiU0CDFiZhQR1ZRC7XQGIfEkepcpj40
+08c+nTn/8zy/8zxnTs8zsw0BxpfHGvuSXmwfNPZ373cZ0heVZBRhgk1yY+YiLAfO
+LNAqQadmyVEkzIzhAAcUTxMAl0maMAFSFBiSJ2iZgYLECQCKIsniAs9IAM0IhmYp
+TjDxEm4iGBLKDBBoGuexOExW1CzosDsUVUNYk4izrEDwpCATPG2SSAJxRYoiBMjy
+tMiTHOAFTiKQcavNqTtQOIF3wnjFhmZoY5mJ9x/6/zm3awZH0zKgAE6zNMNQLGuS
+ZZqDJgrnWIJjcBzXhU7oUPlciNQOmwAlqGKeOAwN8xUR6u+qF/m3IF605SKn3WHT
+bKLNig62aprdrPs0t10XboOC5W+ERVBUCT0iMuRDh1OxqZgZIKWoKToTxQMsoBmO
+isNggV1xQIuiKyhUDQXE9WtgPkIKqC5JCYAmCIEWGQknBQYCVoAkJ6N6vEmCJlEG
+BE1REkviNCFSPEtDAGncRHI4heml8lQbYnMoJ5+FmE4lS+U1lwNinjPdmU8ZjAGG
+uXNm6b/LEDAv8J8/V7A20HB6eOr7+lWvnBmO8j/pdYlZs6SAzGVLEqZSg2S++EbV
+jocbejOi3hqZqD5V/9KGtqyqO2e995J/vdbP7c9paE6JXnPAdyyoY1XXq/LA9JH3
+fHDkW68KatvAwniQdzX13VR37qHqdVM56ZaP1LDGmsSeHt/h0omUN/i5uHz4+P02
+f9hFD4xddD8mPPLtxxFTc34cvZTBGWtvvXPoz4qCzS2dVaEkaGncY4xPrON3NtV0
+rBzMtidngKJfksSY9oIJE3+n8tEmgzKyzO9b0HX0g9EDR+MLy7y7XKdzp0P/GN6o
+Hvk65AE5HtzszX7EFk4GbvHhVyIazevA79k9Iy3qGi9XfKnv/JaUjd8Ua9EVj68c
+r3u9YwTcFk5Q9fO7Hr527tOQeZHR20pgxVDZ6Pzt107sDfJ/d/HzhAufJftXP9+w
+lv9ydHnp1bBN9lb3wJu/jSctDKrsX5xezgVH3Ku2rmjKb7h8duz6OW3aV5L2bJuH
+7PPU/qTtubU+rbH1yYJ9ri86IsbqJlus7oGhwJamT5Yvbqsx9570Dqa514uzD75Q
+OfnxktYPpYOJhT/fTGhfGnVzpTm42RiZMrjzdl7Vcx4ME9MZpTJJ7bX5+Qcd15Nu
+JJZd7jxZUR4Qs/qru+9brVWd4RdOKTvKW5nu8VD6h93bh87Hrlgai4c83dO3Obyy
+VLxbfqxkd+ZfQ8rFlA==
+=crlV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robeden
+
+==================================================================
