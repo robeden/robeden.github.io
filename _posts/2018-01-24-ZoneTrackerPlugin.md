@@ -14,10 +14,10 @@ My work situation is bit complex from an interruption standpoint. As is common t
 we have a fairly open cubical configuration. We've also recently rearranged cubes so my
 team is all close. This has been great for communication but challenging for 
 interruptions. The main difficulty is that I'm lead engineer and team lead. My team has
-a braod range of experience levels and right now we have a number of projects in early
+a broad range of experience levels and right now we have a number of projects in early
 stages. This all adds up to lots of great conversations. I love this stage with it's
-planning and collaboration; it's my favorite part of development. But at this stage in
-my career I find it very difficult to get enough blocked out time to be really productive
+planning and collaboration; it's one of my favorite parts of development. But at this stage in
+my career I find it very difficult to get enough time to be really productive
 coding.
 
 Part of the problem is that just blocking out time isn't sufficient because not all time
@@ -29,7 +29,7 @@ if it's virtual) must be done sometimes, but is something I'd like to avoid as m
 possible.
 
 My solution to this has been [a colored light](https://blink1.thingm.com) above my cube 
-indicating my general level of willingness to be interrupted: green = open door, yellow =
+indicating my level of willingness to be interrupted: green = open door, yellow =
 for "important" stuff", red = go away. This works okay, but it's currently a manual 
 setting. I have to plan ahead of time to "go red" and then –crucially– remember to turn
 it back green. Forgetting to do so means training people to ignore the light. What I 
@@ -42,29 +42,29 @@ phase.
 
 What (I think) I really want is an indicator of how "in the zone" I am. Take for example
 this study on [unplanned interruptions in software development](https://novicearshad.wordpress.com/2012/01/24/unplanned-interruptions-in-software-development/).
-The quantification on the percentage impact of an interruption may be debatable, but I
+The measurement of the percentage impact of an interruption may be debatable, but I
 find the basic concept to be true. Also, I agree it takes time to build into a really
 productive state. So, the goal should be to get there and stay there for as long as
 possible and practical (without shirking "team lead" duties, etc.).
 
-So without further ado, here's my idea. With very little exception, my "real development"
+So without further ado, here's my idea. With very little exception, my "real development work"
 with is done in [IntelliJ IDEA](https://www.jetbrains.com/idea). I propose that 
 –in general– the longer I've been working there without interruption, the more focused I
 should be on the task. I'm thinking a plugin could be developed to predict how "in the 
 zone" I am based on my work there. Factors such as continual operation (scrolling, 
 file changes, typing) could be monitored as well as possibly the rate of typing could be
-factored along with a "build up" time to quantify the productivity, similar to the report
-cited earlier.
+factored along with a "build up" time (probably non-linear) to quantify the productivity, similar to the report
+cited earlier. "Cooldown" time should also be taken into account when progress stops for a duration (again, probably non-linear).
 
-Once a number can generated to productivity or in-the-zone-ness or whatever you want to
+Once a number can generated for productivity or in-the-zone-ness or whatever you want to
 call it, many interesting things can be done. First, obviously, there are statistics and
 reports... because who doesn't love statistics and reports? Second, I would like to 
-associate a color scale (green or blue to red) with that scale. It could easily allow
-executing a shell script with parameters that would allow my Blink(1) light to display 
-that color. That way my status light is a bit more real to where I'm really at 
+associate a color scale (green or blue to red) with that value. It could easily allow
+executing shell scripts with parameters that would allow my Blink(1) light to display 
+that color. That way my status light is more closely tied to where I'm really at 
 concentration-wise at that moment. Also, scripts could be fired when hitting tiers 
 (say, 80%?) to do things like mute instant messaging notifications and other such 
-distractions.
+distractions since higher productivity is more valuable.
 
 So, dear internet, I ask: what do you think? First, does something like this already 
 exist? Project time is scarce, so I don't really want to re-build where there's already 
