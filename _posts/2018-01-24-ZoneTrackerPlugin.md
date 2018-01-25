@@ -3,6 +3,7 @@ layout: post
 title:  "ZoneTracker Plugin? 🤔"
 excerpt_separator: <!--more-->
 categories: software
+published: false
 ---
 
 
