@@ -35,7 +35,7 @@ setting. I have to plan ahead of time to "go red" and then –crucially– remem
 it back green. Forgetting to do so means training people to ignore the light. What I 
 really want is a more automatic solution. This was [CommitStrip's solution](http://www.commitstrip.com/en/2018/01/11/the-war-on-interruptions/):
 
-<a href="http://www.commitstrip.com/en/2018/01/11/the-war-on-interruptions/">![CommitStrip comic: War on Interruptions](/assets/img/20180124-commitstrip-war-on-interruptions.jpg "CommitStrip: War on Interruptions")</a>
+<a href="http://www.commitstrip.com/en/2018/01/11/the-war-on-interruptions/">![CommitStrip comic: War on Interruptions](/images/ext/20180124-commitstrip-war-on-interruptions.jpg "CommitStrip: War on Interruptions")</a>
 
 I mean, I like that concept very much. But I suspect some issues in the implementation 
 phase.

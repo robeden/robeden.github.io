@@ -21,6 +21,8 @@ You may not reuse anything therein without my permission:
 * \_posts/
 * images/
 
+The exception under "images" is everything under "ext", which is all third-party content. In general these are comics which are used by permission and carry their own license. They should all be linked from a post which carries attribution.
+
 All other directories and files are MIT Licensed. Feel free to use the HTML and
 CSS as you please. If you do use them, a link back to
 https://github.com/robeden/robeden.github.io would be appreciated, but is not required.
