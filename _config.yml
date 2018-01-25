@@ -19,8 +19,9 @@ exclude:
 include:
   - .well-known
   
-  
-google_analytics: UA-89544639-1
+ 
+clicky_analytics: 101097574 
+#google_analytics: UA-89544639-1
 disqus_shortname: robeden
 
 
