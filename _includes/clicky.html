@@ -1,8 +1,8 @@
 {% if site.clicky_analytics %}
-<a title="Google Analytics Alternative" href="http://clicky.com/{{ site.google_analytics }}"><img alt="Google Analytics Alternative" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<a title="Google Analytics Alternative" href="http://clicky.com/{{ site.clicky_analytics }}"><img alt="Google Analytics Alternative" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
 <script type="text/javascript">
 var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push({{ site.google_analytics }});
+clicky_site_ids.push({{ site.clicky_analytics }});
 (function() {
   var s = document.createElement('script');
   s.type = 'text/javascript';
@@ -11,5 +11,5 @@ clicky_site_ids.push({{ site.google_analytics }});
   ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
 })();
 </script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/{{ site.google_analytics }}ns.gif" /></p></noscript>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/{{ site.clicky_analytics }}ns.gif" /></p></noscript>
 {% endif %}
