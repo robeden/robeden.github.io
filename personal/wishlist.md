@@ -3,9 +3,8 @@
 
 **General**
 
-- \[HIGH] [Standing desk](https://smile.amazon.com/dp/B012BMMK0C/ref=cm_sw_r_cp_awdb_qltbAbM2XYRNS)
+- \[HIGH] [Executive Knight Pen Holder](http://www.thinkgeek.com/product/1543/) - $30
 - \[MED] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
-- \[MED] [Executive Knight Pen Holder](http://www.thinkgeek.com/product/1543/) - $30
 - \[MED] [Klipsch ProMedia 2.1 Computer Speaker System](http://a.co/0xtWHan) - $140
 
 **Workshop**
@@ -18,7 +17,7 @@
 
 **Tinkering**
 
-- \[MED] [Weller WES51 Analog Soldering Station](http://a.co/acyAMEz) - $100
+- \[LOW] [Weller WES51 Analog Soldering Station](http://a.co/acyAMEz) - $100
 - \[LOW] [Illuminated Magnifier Table Lamp](https://www.ifixit.com/Store/Tools/Illuminated-Magnifier-Table-Lamp/IF145-038) - $30
 
 **Photography**
