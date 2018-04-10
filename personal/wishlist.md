@@ -1,6 +1,3 @@
----
----
-
 **General**
 
 - \[HIGH] [Executive Knight Pen Holder](http://www.thinkgeek.com/product/1543/) - $30
