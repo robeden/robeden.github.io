@@ -1,17 +1,16 @@
 **General**
 
-- \[HIGH] [Executive Knight Pen Holder](http://www.thinkgeek.com/product/1543/) - $30
-- \[MED] [BARTON Elite Silicone Watch Band - Black/Green (22mm)](http://a.co/6YpXS79) - $20
-- \[MED] [Klipsch ProMedia 2.1 Computer Speaker System](http://a.co/0xtWHan) - $140
-- \[MED] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
+- [Executive Knight Pen Holder](http://www.thinkgeek.com/product/1543/) - $30
+- [BARTON Elite Silicone Watch Band - Black/Green (22mm)](http://a.co/6YpXS79) - $20
+- [Klipsch ProMedia 2.1 Computer Speaker System](http://a.co/0xtWHan) - $140
+- [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
+- [Star Trek Metal Earth Model Kits](https://www.thinkgeek.com/product/hruj/) - $10
 
 **Workshop**
 
-- \[MED] Belt/Disc Sander - $150? (CU Woodshop)
-- \[MED] [T-Bevel](https://www.lowes.com/pd/IRWIN-Hardwood-T-Bevel/50420100) - $20
-- \[MED] [Woodsmith Magazine back issues](http://www.woodsmith.com/back-issue-library.php) - $100
-- \[LOW] [Wire Gauge](https://www.ifixit.com/Store/Tools/Wire-Gauge/IF145-250-1) - $7
-- \[LOW] [Thread Checker](https://www.ifixit.com/Store/Tools/Thread-Checker/IF145-285-1) - $35
+- Belt/Disc Sander - $150? (CU Woodshop)
+- [T-Bevel](https://www.lowes.com/pd/IRWIN-Hardwood-T-Bevel/50420100) - $20
+- [Woodsmith Magazine back issues](http://www.woodsmith.com/back-issue-library.php) - $100
 
 **Tinkering**
 
@@ -20,7 +19,7 @@
 
 **Photography**
 
-- \[MED] [Macro Lens (Canon EF 100mm f/2.8 Macro USM)](http://www.bhphotovideo.com/c/product/194451-USA/Canon_4657A006_100mm_f_2_8_USM_Macro.html) - $570
+- [Macro Lens (Canon EF 100mm f/2.8 Macro USM)](http://www.bhphotovideo.com/c/product/194451-USA/Canon_4657A006_100mm_f_2_8_USM_Macro.html) - $570
 
 
 Always a good idea... gift certificates!
