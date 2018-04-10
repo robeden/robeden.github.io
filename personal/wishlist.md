@@ -4,8 +4,9 @@
 **General**
 
 - \[HIGH] [Executive Knight Pen Holder](http://www.thinkgeek.com/product/1543/) - $30
-- \[MED] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
+- \[MED] [BARTON Elite Silicone Watch Band - Black/Green (22mm)](http://a.co/6YpXS79) - $20
 - \[MED] [Klipsch ProMedia 2.1 Computer Speaker System](http://a.co/0xtWHan) - $140
+- \[MED] [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
 
 **Workshop**
 
