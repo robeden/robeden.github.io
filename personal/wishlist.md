@@ -5,6 +5,7 @@
 - [Klipsch ProMedia 2.1 Computer Speaker System](http://a.co/0xtWHan) - $140
 - [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
 - [Star Trek Metal Earth Model Kits](https://www.thinkgeek.com/product/hruj/) - $10
+- [Apple Pencil](https://www.apple.com/shop/product/MK0C2AM/A/apple-pencil) - $99
 
 **Workshop**
 
