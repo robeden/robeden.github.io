@@ -7,6 +7,7 @@
 
 **Workshop**
 
+- [Air Compressor](https://www.lowes.com/pd/California-Air-Tools-2-Gallon-Electric-Horizontal-Quiet-Air-Compressor/1000018911) - $185
 - Belt/Disc Sander - $150? (CU Woodshop)
 - [T-Bevel](https://www.lowes.com/pd/IRWIN-Hardwood-T-Bevel/50420100) - $20
 - [Woodsmith Magazine back issues](http://www.woodsmith.com/back-issue-library.php) - $100
