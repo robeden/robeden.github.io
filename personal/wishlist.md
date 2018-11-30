@@ -4,6 +4,11 @@
 - [Basketball hoop](http://a.co/b4vfCIk) (or something like that) - $325-ish
 - [Star Trek Metal Earth Model Kits](https://www.thinkgeek.com/product/hruj/) - $10
 - [The Garbage Collection Handbook (kindle)](http://a.co/d/eq3AchS) - $46
+- Syrup flavors ([Monin Syrups](https://www.monin.com/us/products)) - $10-ish
+  - Anything fruity - Blackberry, Peach, Banana, Strawberry, etc.
+  - Toffee, Caramel, etc.
+  - ... surprise me 😀
+
 
 **Workshop**
 
