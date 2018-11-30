@@ -11,6 +11,7 @@
 - Belt/Disc Sander - $150? (CU Woodshop)
 - [T-Bevel](https://www.lowes.com/pd/IRWIN-Hardwood-T-Bevel/50420100) - $20
 - [Woodsmith Magazine back issues](http://www.woodsmith.com/back-issue-library.php) - $100
+- [Smooth File Set](https://www.lowes.com/pd/Kobalt-8-in-Smooth-File-Set/999921002) - $16
 
 **Tinkering**
 
