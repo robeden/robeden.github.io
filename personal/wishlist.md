@@ -10,11 +10,12 @@
 
 **Workshop**
 
+- [Smooth File Set](https://www.lowes.com/pd/Kobalt-8-in-Smooth-File-Set/999921002) - $16
 - [74-Piece Impact Set](https://www.farmandfleet.com/products/1141630-milwaukee-48-32-4062-74-piece-shockwave-impact-set.html) - $24
 - [Mobile Tool Base](https://www.amazon.com/gp/product/B00002262M) - $55
-- Belt/Disc Sander - $150? (CU Woodshop)
 - [Woodsmith Magazine back issues](http://www.woodsmith.com/back-issue-library.php) - $100
-- [Smooth File Set](https://www.lowes.com/pd/Kobalt-8-in-Smooth-File-Set/999921002) - $16
+
+- [Jet Oscillating Sander](https://www.rockler.com/jet-benchtop-oscillating-spindle-sander)
 
 
 Always a good idea... gift certificates!
