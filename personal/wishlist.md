@@ -1,7 +1,7 @@
 **General**
 
 - [Concept (board game)](https://www.amazon.com/dp/B00IDB6J0S) - $30
-- A nice basketball
+- A basketball
 - Syrup flavors ([Monin Syrups](https://www.monin.com/us/products)) - $10-ish
   - Anything fruity - Blackberry, Peach, Banana, Strawberry, etc.
   - Toffee, Caramel, etc.
