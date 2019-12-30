@@ -1,17 +1,16 @@
 **General**
 
-- [Concept (board game)](https://www.amazon.com/dp/B00IDB6J0S) - $30
 - A basketball
 - Syrup flavors ([Monin Syrups](https://www.monin.com/us/products)) - $10-ish
   - Anything fruity - Blackberry, Peach, Banana, Strawberry, etc.
   - Toffee, Caramel, etc.
   - ... surprise me 😀
+- ["Git commit" mug](https://kvlly.com/collections/all/products/please-work-mug?variant=31661621084269) - $22
 
 
 **Workshop**
 
 - [Smooth File Set](https://www.lowes.com/pd/Kobalt-8-in-Smooth-File-Set/999921002) - $16
-- [74-Piece Impact Set](https://www.farmandfleet.com/products/1141630-milwaukee-48-32-4062-74-piece-shockwave-impact-set.html) - $24
 - [Mobile Tool Base](https://www.amazon.com/gp/product/B00002262M) - $55
 - [M12 12-Volt Lithium-Ion Cordless 1/4 in. Hex Screwdriver Kit with Two 1.5Ah Batteries, Charger, Tool Bag and Bit Set](https://www.homedepot.com/p/Milwaukee-M12-12-Volt-Lithium-Ion-Cordless-1-4-in-Hex-Screwdriver-Kit-with-Two-1-5Ah-Batteries-Charger-Tool-Bag-and-Bit-Set-2401-22-48-32-4515/310117101) - $104
 - [Woodsmith Magazine back issues](http://www.woodsmith.com/back-issue-library.php) - $100
